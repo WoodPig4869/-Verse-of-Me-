@@ -4,7 +4,8 @@
 本程式可協助玩家於《逆水寒》手遊中，自動彈奏指定曲目，實現高效率、高還原度的音樂演出。
 
 由於 Python 在多線程控制方面不利於即時終止，故本版本改以 **AutoHotkey 編譯為執行檔**，提升操作穩定性與效能。
-## [試聽影片](https://youtu.be/sN6MtemSF1M)
+### 試聽影片
+[鑄劍山莊](https://youtu.be/sN6MtemSF1M) | [賓克斯的美酒](https://youtu.be/ga_stCaMPCs)
 ---
 
 ## 📦 功能特色
