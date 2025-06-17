@@ -19,7 +19,7 @@
 
 ## 🚀 使用方法
 
-1. 前往 [`這個連結`](https://github.com/WoodPig4869/-Verse-of-Me-/releases/latest/download/AutoMusic.exe) 頁面下載最新版 👉 **`VerseOfMe.exe`**
+1. 前往 [`這個連結`](https://github.com/WoodPig4869/-Verse-of-Me-/releases/latest/download/VerseOfMe.exe) 頁面下載最新版 👉 **`VerseOfMe.exe`**
 2. 下載後，**右鍵選擇「以系統管理員身分執行」**
 3. 開啟程式後，選取你想演奏的曲目檔案
 4. 切換至《逆水寒》遊戲內，進入樂器彈奏模式
